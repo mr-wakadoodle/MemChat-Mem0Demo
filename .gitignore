@@ -1,0 +1,23 @@
+# Environment
+.env
+
+# Python
+memenv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Qdrant on-disk storage (generated at runtime)
+qdrant_storage/
+
+# Node
+memchat-frontend/node_modules/
+memchat-frontend/dist/
+memchat-frontend/.env.local
+
+# OS
+.DS_Store
+Thumbs.db

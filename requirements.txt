@@ -1,0 +1,20 @@
+# ── MemChat Backend Dependencies ──────────────────────────────────────────
+
+# Web framework
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+
+# Mem0 memory layer
+mem0ai>=0.1.0
+
+# Google Gemini (LLM + embeddings) — new SDK
+google-genai>=1.0.0
+
+# Qdrant vector store client (used internally by Mem0)
+qdrant-client>=1.9.0
+
+# Environment variable loading
+python-dotenv>=1.0.0
+
+# Pydantic v2 (FastAPI dependency)
+pydantic>=2.7.0
