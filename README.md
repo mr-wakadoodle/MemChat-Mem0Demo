@@ -4,6 +4,8 @@
 
 MemChat is a full-stack AI chatbot that **remembers you across sessions** using Mem0's memory layer. Unlike standard chatbots that forget everything when you close the tab, MemChat extracts meaningful facts from your conversations and recalls them the next time you chat — automatically.
 
+![MemChat Demo](./assets/demo.png)
+
 ---
 
 ## ✨ What makes this interesting
